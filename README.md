@@ -12,3 +12,6 @@ bikeshare.py
 
 ### Credits
 Udacity Python Tutorials
+
+### Change1
+In the future the scope of bike share date will be expanded to Mexico
